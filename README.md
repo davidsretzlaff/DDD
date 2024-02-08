@@ -67,4 +67,4 @@ vamos supor que exista dois ou mais contexto com o mesmo elemento.
 
 uma boa pratica para esses casos é criar um elemento cliente para cada contexto, pois um unico elemento para atender os tres contextos, esse elemento vai acabar virando um frankestein.
 ________________________________________________________________
-Referências: Full Cycle
+
